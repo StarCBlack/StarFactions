@@ -1,0 +1,37 @@
+Scoreboards:
+    Sem-Facção:
+        Facção: false #se for false todos os placeholders da facção são desativados.. Obs: se o membro não tiver facção vai aparecer ess scoreboard
+        Mundos:
+            - "Spawn"
+            - "Jogar"
+        Title: "{zona}"
+        Linhas:
+            - ""
+            - " {mcmmo_habilidade}"
+            - " Poder: {Poder}"
+            - " Coins: &a{coins}"
+            - " Cash: &a{cash}"
+            - ""
+            - "  Nenhuma facção"
+            - ""
+            - "&cstarfactions.com"
+    Com-Facção:
+        Facção: true #se for true todos os placeholders da facção são ativados.. Obs: utilize para mostar as informações a membros que tem facção!
+        Mundos:
+            - "Spawn"
+            - "Jogar"
+        Title: "{zona}"
+        Linhas:
+            - ""
+            - " {mcmmo_habilidade}"
+            - " Poder: {Poder}"
+            - " Coins: &a{coins}"
+            - " Cash: &a{cash}"
+            - ""
+            - "  &e{faction_name} {faction_tag} &7{faction_ranking}"
+            - "   &fOnline: &e{faction_online}&7/&e{faction_max_members}"
+            - "   &fPoder: &e{faction_power}&7/&e{faction_max_power}"
+            - "   &fTerras: &e{faction_terras}"
+            - ""
+            - "&cstarfactions.com"       
+    

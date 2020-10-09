@@ -1,0 +1,12 @@
+#Crie e configure cargos aqui
+
+Nome: "Capitão"
+Tag: "*"
+Posição: 2
+
+#Essas vão ser as permissões que vão aparecer para ser escolhidas no menu
+Permissões:
+        Acessar-Containers: true
+        Quebrar-Blocos: true
+        Promover-Cargos-Inferiores: false
+        Acessar-Menu-de-Geradores: false

@@ -1,0 +1,16 @@
+#
+#Rascunho!
+#
+
+#Crie e configure cargos aqui
+
+Nome: "Líder"
+Tag: "#"
+Posição: 1
+
+#Essas vão ser as permissões que vão aparecer para ser escolher
+Permissões:
+        Acessar-Containers: true
+        Quebrar-Blocos: true
+        Promover-Cargos-Inferiores: false
+        Acessar-Menu-de-Geradores: false

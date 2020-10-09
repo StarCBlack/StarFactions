@@ -1,0 +1,11 @@
+#
+#Rascunho!
+#
+
+Messages:
+    Player-Join: "&f\n&aO usuário {target} ingressou na facção, parabéns!\n&f"
+    Player-Quit: "&f\n&cO usuário {target} abandonou a facção, adeus :(\n&f"
+    Change-Role: "&f\n&aO membro {target} foi promovido para {role}, parabéns!\n&f"
+    Member-Expelled: "&f\n&cO usuário {target} foi expulso da facção.\n&f"
+    Target-Expelled: "&cVocê foi expulso da facção pelo usuário {target}"
+    

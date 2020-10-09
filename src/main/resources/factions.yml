@@ -1,0 +1,21 @@
+Configuração:  
+    #Nome
+    Caracters-Nome-Maximo: 16
+    Caracters-Nome-Minimo: 6
+    #Tag
+    Caracters-Tag-Maximo: 3
+    Caracters-Tag-Minimo: 3
+    #Ranking
+    Tempo-Atualizar-Ranking: "5m" #Segue a mesma logica do sistema de recuperação do poder
+    Coordenadas: "60kk" #Aparecer as coordenadas no f top 'valor' a partir de uma certa quantidade de money
+    #Terras
+    Tempo-Claim-Para-Colocar-Spawners: "1d"
+    Minimo-Claim-Para-Colocar-Spawners: 5 #Esse sistema funciona junto com o apresentado acima
+    Preco-Para-Proteger-Temporariamente: "100k"
+    Tempo-De-Protecao-Temporaria: "60m"
+    SobAtaque:
+        Tempo-Sair-de-Combate: "5m"  #Segue a mesma logica do sistema de recuperação do poder
+        Mensagem-Combate: "Sua facção está em ataque! Aguarde &7{time}"
+        Blocos-Bloqueados:
+            - '138'
+            - '52'

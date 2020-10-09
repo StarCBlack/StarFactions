@@ -1,0 +1,24 @@
+#Bem vindo(a) a configuração do StarFactions
+
+#Utilize o mysql para salvar os dados!
+#Disponíbilizamos também um sistema de salvamento por sql, mas não é recomendado!
+#Em tipo coloque SQL ou MySQL para escolher um dos sistemas de salvamento.
+Salvamento:
+    tipo: MySQL
+    database: 'StarFactions'
+    username: 'root'
+    hostname: 'localhost'
+    password: 'senha123'
+    port: '3306'
+
+#Licença: Criamos um sistema de licença para melhorar a seguraça de nossos projetos
+
+Licença:
+    Nome: "João"
+    Senha: "dAD#wJ434" #Essa senha não é a mesma utilizada para se logar a sua conta.
+    Endereço: "127.0.0.1"
+    Identificação: "314VB4BÇ5B52-ODASD13@a3131" #Aqui deve ser colocado o id da sua licença
+    Discord: "! STAR#0001" #Coloque o seu discord aqui para uma melhor identificação.
+
+Plugin:
+    idioma: "PT-BR"

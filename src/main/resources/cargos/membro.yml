@@ -1,0 +1,16 @@
+#
+#Rascunho!
+#
+
+#Crie e configure cargos aqui
+
+Nome: "Membro"
+Tag: "+"
+Posição: 3
+
+#Essas vão ser as permissões que vão aparecer para ser escolher
+Permissões:
+        Acessar-Containers: true
+        Quebrar-Blocos: true
+        Promover-Cargos-Inferiores: false
+        Acessar-Menu-de-Geradores: false

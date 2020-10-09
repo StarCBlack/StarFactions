@@ -1,0 +1,16 @@
+#
+#Rascunho!
+#
+
+#Crie e configure cargos aqui
+
+Nome: "Recruta"
+Tag: "-"
+Posição: 4
+
+#Essas vão ser as permissões que vão aparecer para ser escolher
+Permissões:
+        Acessar-Containers: true
+        Quebrar-Blocos: true
+        Promover-Cargos-Inferiores: false
+        Acessar-Menu-de-Geradores: false

@@ -1,0 +1,7 @@
+Configuração:
+    Poder-Inicial: 3.0
+    Poder-Maximo: 7.0
+    Poder-Maximo-Inicial: 3.0
+    Poder-Por-Morte: 1.0
+    Tempo-de-Recuperação: "3m" #Utilize como nos exemplos: 3m = 3 minutos | 3s = 3 segundos | 3h = 3 horas | 3d = 3 dias
+    Kdr-Inicial: 0.0
